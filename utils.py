@@ -1,5 +1,3 @@
-"""utils.py - Module for fetching financial news sentiment and stock community data."""
-
 import os
 import json
 import requests
